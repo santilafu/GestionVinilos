@@ -130,8 +130,7 @@ Buscar por precio mínimo, por ejemplo: precio>=18.
 La clase construye dinámicamente la expresión XPath a partir de los datos que introduce el usuario,
 ejecuta la búsqueda y devuelve los títulos que cumplen las condiciones.
 
-Con este apartado se demuestra el uso combinado de DOM y XPath para la consulta selectiva de datos XML,
-completando así todas las formas de acceso y manipulación de información del temario de la Unidad 1 🔍.
+Con este apartado se demuestra el uso combinado de DOM y XPath.
 
 ## 🧰 Tecnologías utilizadas
 
