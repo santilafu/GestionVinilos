@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<catalogo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-          xsi:noNamespaceSchemaLocation="catalogo.xsd">
-
-    <!-- MAREA -->
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogo>
     <vinilo id="m1">
         <titulo>Revolcón</titulo>
         <autor>Marea</autor>
@@ -25,17 +22,15 @@
         <sello>Warner</sello>
         <anno>2011</anno>
         <ejemplares>5</ejemplares>
-        <precio>16.50</precio>
+        <precio>16.5</precio>
     </vinilo>
-
-    <!-- EXTREMODURO -->
     <vinilo id="e1">
         <titulo>Agila</titulo>
         <autor>Extremoduro</autor>
         <sello>DRO Records</sello>
         <anno>1996</anno>
         <ejemplares>5</ejemplares>
-        <precio>14.50</precio>
+        <precio>14.5</precio>
     </vinilo>
     <vinilo id="e2">
         <titulo>La ley innata</titulo>
@@ -43,7 +38,7 @@
         <sello>DRO</sello>
         <anno>2008</anno>
         <ejemplares>3</ejemplares>
-        <precio>17.20</precio>
+        <precio>17.2</precio>
     </vinilo>
     <vinilo id="e3">
         <titulo>Deltoya</titulo>
@@ -51,17 +46,15 @@
         <sello>DRO</sello>
         <anno>1992</anno>
         <ejemplares>4</ejemplares>
-        <precio>15.80</precio>
+        <precio>15.8</precio>
     </vinilo>
-
-    <!-- LEIVA -->
     <vinilo id="l1">
         <titulo>Diciembre</titulo>
         <autor>Leiva</autor>
         <sello>Sony Music</sello>
         <anno>2012</anno>
         <ejemplares>4</ejemplares>
-        <precio>19.50</precio>
+        <precio>19.5</precio>
     </vinilo>
     <vinilo id="l2">
         <titulo>Monstruos</titulo>
@@ -69,7 +62,7 @@
         <sello>Sony Music</sello>
         <anno>2016</anno>
         <ejemplares>2</ejemplares>
-        <precio>17.90</precio>
+        <precio>17.9</precio>
     </vinilo>
     <vinilo id="l3">
         <titulo>Nuclear</titulo>
@@ -77,17 +70,15 @@
         <sello>Sony Music</sello>
         <anno>2019</anno>
         <ejemplares>3</ejemplares>
-        <precio>18.20</precio>
+        <precio>18.2</precio>
     </vinilo>
-
-    <!-- FITO & FITIPALDIS -->
     <vinilo id="f1">
         <titulo>A puerta cerrada</titulo>
         <autor>Fito &amp; Fitipaldis</autor>
         <sello>Warner Music Spain</sello>
         <anno>1998</anno>
         <ejemplares>3</ejemplares>
-        <precio>14.90</precio>
+        <precio>14.9</precio>
     </vinilo>
     <vinilo id="f2">
         <titulo>Lo más lejos a tu lado</titulo>
@@ -95,7 +86,7 @@
         <sello>Warner Music Spain</sello>
         <anno>2003</anno>
         <ejemplares>6</ejemplares>
-        <precio>19.80</precio>
+        <precio>19.8</precio>
     </vinilo>
     <vinilo id="f3">
         <titulo>Por la boca vive el pez</titulo>
@@ -103,17 +94,15 @@
         <sello>Warner Music Spain</sello>
         <anno>2006</anno>
         <ejemplares>5</ejemplares>
-        <precio>20.00</precio>
+        <precio>20.0</precio>
     </vinilo>
-
-    <!-- ESTOPA -->
     <vinilo id="es1">
         <titulo>Estopa</titulo>
         <autor>Estopa</autor>
         <sello>Sony BMG</sello>
         <anno>1999</anno>
         <ejemplares>8</ejemplares>
-        <precio>15.40</precio>
+        <precio>15.4</precio>
     </vinilo>
     <vinilo id="es2">
         <titulo>Destrangis</titulo>
@@ -121,7 +110,7 @@
         <sello>Sony BMG</sello>
         <anno>2001</anno>
         <ejemplares>6</ejemplares>
-        <precio>16.90</precio>
+        <precio>16.9</precio>
     </vinilo>
     <vinilo id="es3">
         <titulo>Allenrock</titulo>
@@ -129,17 +118,15 @@
         <sello>Sony Music</sello>
         <anno>2008</anno>
         <ejemplares>4</ejemplares>
-        <precio>17.00</precio>
+        <precio>17.0</precio>
     </vinilo>
-
-    <!-- AMARAL -->
     <vinilo id="a1">
         <titulo>Estrella de mar</titulo>
         <autor>Amaral</autor>
         <sello>Virgin Records</sello>
         <anno>2002</anno>
         <ejemplares>4</ejemplares>
-        <precio>15.80</precio>
+        <precio>15.8</precio>
     </vinilo>
     <vinilo id="a2">
         <titulo>Pájaros en la cabeza</titulo>
@@ -147,7 +134,7 @@
         <sello>EMI Music</sello>
         <anno>2005</anno>
         <ejemplares>3</ejemplares>
-        <precio>16.70</precio>
+        <precio>16.7</precio>
     </vinilo>
     <vinilo id="a3">
         <titulo>Nocturnal</titulo>
@@ -155,17 +142,15 @@
         <sello>Antártida</sello>
         <anno>2015</anno>
         <ejemplares>2</ejemplares>
-        <precio>17.40</precio>
+        <precio>17.4</precio>
     </vinilo>
-
-    <!-- ZOO -->
     <vinilo id="z1">
         <titulo>Raval</titulo>
         <autor>Zoo</autor>
         <sello>Zoo Records</sello>
         <anno>2017</anno>
         <ejemplares>5</ejemplares>
-        <precio>14.20</precio>
+        <precio>14.2</precio>
     </vinilo>
     <vinilo id="z2">
         <titulo>Llepolies</titulo>
@@ -173,7 +158,7 @@
         <sello>Zoo Records</sello>
         <anno>2021</anno>
         <ejemplares>2</ejemplares>
-        <precio>18.10</precio>
+        <precio>18.1</precio>
     </vinilo>
     <vinilo id="z3">
         <titulo>Cap per avall</titulo>
@@ -181,16 +166,15 @@
         <sello>Zoo Records</sello>
         <anno>2023</anno>
         <ejemplares>4</ejemplares>
-        <precio>19.50</precio>
+        <precio>19.5</precio>
     </vinilo>
-    <!-- VETUSTA MORLA -->
     <vinilo id="v1">
         <titulo>Un día en el mundo</titulo>
         <autor>Vetusta Morla</autor>
         <sello>Pequeño Salto Mortal</sello>
         <anno>2008</anno>
         <ejemplares>5</ejemplares>
-        <precio>18.90</precio>
+        <precio>18.9</precio>
     </vinilo>
     <vinilo id="v2">
         <titulo>La deriva</titulo>
@@ -198,7 +182,7 @@
         <sello>Pequeño Salto Mortal</sello>
         <anno>2014</anno>
         <ejemplares>4</ejemplares>
-        <precio>19.50</precio>
+        <precio>19.5</precio>
     </vinilo>
     <vinilo id="v3">
         <titulo>MSDL - Canciones dentro de canciones</titulo>
@@ -206,17 +190,15 @@
         <sello>Pequeño Salto Mortal</sello>
         <anno>2020</anno>
         <ejemplares>3</ejemplares>
-        <precio>21.00</precio>
+        <precio>21.0</precio>
     </vinilo>
-
-    <!-- LOS ZIGARROS -->
     <vinilo id="lz1">
         <titulo>A todo que sí</titulo>
         <autor>Los Zigarros</autor>
         <sello>Universal Music</sello>
         <anno>2016</anno>
         <ejemplares>6</ejemplares>
-        <precio>15.90</precio>
+        <precio>15.9</precio>
     </vinilo>
     <vinilo id="lz2">
         <titulo>Apaga la radio</titulo>
@@ -224,17 +206,15 @@
         <sello>Universal Music</sello>
         <anno>2019</anno>
         <ejemplares>5</ejemplares>
-        <precio>18.10</precio>
+        <precio>18.1</precio>
     </vinilo>
-
-    <!-- MORGAN -->
     <vinilo id="mg1">
         <titulo>North</titulo>
         <autor>Morgan</autor>
         <sello>Good Mood Records</sello>
         <anno>2016</anno>
         <ejemplares>3</ejemplares>
-        <precio>17.40</precio>
+        <precio>17.4</precio>
     </vinilo>
     <vinilo id="mg2">
         <titulo>Air</titulo>
@@ -242,17 +222,15 @@
         <sello>Good Mood Records</sello>
         <anno>2018</anno>
         <ejemplares>4</ejemplares>
-        <precio>19.20</precio>
+        <precio>19.2</precio>
     </vinilo>
-
-    <!-- SIDEcars -->
     <vinilo id="sc1">
         <titulo>Cuestión de gravedad</titulo>
         <autor>Sidecars</autor>
         <sello>Warner Music Spain</sello>
         <anno>2017</anno>
         <ejemplares>4</ejemplares>
-        <precio>16.50</precio>
+        <precio>16.5</precio>
     </vinilo>
     <vinilo id="sc2">
         <titulo>Trece</titulo>
@@ -260,17 +238,15 @@
         <sello>Warner Music Spain</sello>
         <anno>2021</anno>
         <ejemplares>2</ejemplares>
-        <precio>17.90</precio>
+        <precio>17.9</precio>
     </vinilo>
-
-    <!-- IZAL -->
     <vinilo id="iz1">
         <titulo>Agujeros de gusano</titulo>
         <autor>Izal</autor>
         <sello>Hook Ediciones</sello>
         <anno>2013</anno>
         <ejemplares>3</ejemplares>
-        <precio>18.60</precio>
+        <precio>18.6</precio>
     </vinilo>
     <vinilo id="iz2">
         <titulo>Copacabana</titulo>
@@ -278,7 +254,7 @@
         <sello>Hook Ediciones</sello>
         <anno>2015</anno>
         <ejemplares>5</ejemplares>
-        <precio>19.30</precio>
+        <precio>19.3</precio>
     </vinilo>
     <vinilo id="iz3">
         <titulo>Autoterapia</titulo>
@@ -286,17 +262,15 @@
         <sello>Hook Ediciones</sello>
         <anno>2018</anno>
         <ejemplares>4</ejemplares>
-        <precio>20.10</precio>
+        <precio>20.1</precio>
     </vinilo>
-
-    <!-- LOVE OF LESBIAN -->
     <vinilo id="lol1">
         <titulo>1999</titulo>
         <autor>Love of Lesbian</autor>
         <sello>Warner Music Spain</sello>
         <anno>2009</anno>
         <ejemplares>3</ejemplares>
-        <precio>17.50</precio>
+        <precio>17.5</precio>
     </vinilo>
     <vinilo id="lol2">
         <titulo>El poeta Halley</titulo>
@@ -304,17 +278,15 @@
         <sello>Warner Music Spain</sello>
         <anno>2016</anno>
         <ejemplares>4</ejemplares>
-        <precio>18.90</precio>
+        <precio>18.9</precio>
     </vinilo>
-
-    <!-- LA M.O.D.A -->
     <vinilo id="lm1">
         <titulo>La primavera del invierno</titulo>
         <autor>La M.O.D.A</autor>
         <sello>Autoeditado</sello>
         <anno>2015</anno>
         <ejemplares>4</ejemplares>
-        <precio>16.70</precio>
+        <precio>16.7</precio>
     </vinilo>
     <vinilo id="lm2">
         <titulo>Salvavida (de las balas perdidas)</titulo>
@@ -322,38 +294,30 @@
         <sello>Autoeditado</sello>
         <anno>2017</anno>
         <ejemplares>3</ejemplares>
-        <precio>18.30</precio>
+        <precio>18.3</precio>
     </vinilo>
-
-    <!-- NIÑA POLACA -->
     <vinilo id="np1">
         <titulo>Asumiré la muerte de Mufasa</titulo>
         <autor>Niña Polaca</autor>
         <sello>Sonido Muchacho</sello>
         <anno>2021</anno>
         <ejemplares>2</ejemplares>
-        <precio>19.00</precio>
+        <precio>19.0</precio>
     </vinilo>
-
-    <!-- LOS PLANETAS -->
     <vinilo id="lp1">
         <titulo>Una semana en el motor de un autobús</titulo>
         <autor>Los Planetas</autor>
         <sello>RCA</sello>
         <anno>1998</anno>
         <ejemplares>5</ejemplares>
-        <precio>17.80</precio>
+        <precio>17.8</precio>
     </vinilo>
     <vinilo id="lp2">
-        <titulo>Zapata</titulo>
+        <titulo>Zapaton</titulo>
         <autor>Los Planetas</autor>
         <sello>RCA</sello>
         <anno>2021</anno>
         <ejemplares>3</ejemplares>
-        <precio>19.70</precio>
+        <precio>19.7</precio>
     </vinilo>
-
 </catalogo>
-
-
-
