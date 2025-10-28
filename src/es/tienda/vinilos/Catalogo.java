@@ -1,4 +1,4 @@
 package es.tienda.vinilos;
 
-public class Main {
+public class Catalogo {
 }
